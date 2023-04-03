@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn migrants_detected_scraper:app

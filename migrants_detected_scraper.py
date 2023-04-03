@@ -1,9 +1,7 @@
 # import requests
 # from bs4 import BeautifulSoup
 # import json
-# from flask import Flask, jsonify
 
-# app = Flask(__name__)
 
 # # Make a request to the URL with the table
 # url = "https://www.gov.uk/government/publications/migrants-detected-crossing-the-english-channel-in-small-boats/migrants-detected-crossing-the-english-channel-in-small-boats-last-7-days"
